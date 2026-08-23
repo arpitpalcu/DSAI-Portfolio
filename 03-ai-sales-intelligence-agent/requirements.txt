@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+groq
+jupyter
+ipykernel
